@@ -21,4 +21,12 @@ public class SmartBlocksGit {
         Security.setProperty("crypto.policy", "unlimited");
     }
     
+    private void createBlock(String blockname){
+        
+    }
+    
+    private void verifyBlock(String blockname){
+        
+    }
+    
 }
